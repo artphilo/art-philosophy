@@ -1,37 +1,12 @@
 ## Τέχνη - Φιλοσοφία - Θεραπεία
 
-You can use the [editor on GitHub](https://github.com/artphilo/art-philosophy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Επί σειρά ετών αξιοποιείται η δυναμική, πλούσια και σταθερά ενεργή παρουσία των πολιτιστικών και καλλιτεχνικών δράσεων του Πανεπιστημίου Αθηνών κατά την μακρά παράδοση του Θεατρικού, Κινηματογραφικού, Φωτογραφικού και Χορευτικού Ομίλου των Φοιτητών (ΠΟΦΠΑ). Ιστορικά, από 100νταετίας μάλιστα, οι δημιουργικές ενασχολήσεις των φοιτητών στο πλαίσιο αυτό αποτέλεσαν αφετηρία και φυτώριο προσωπικοτήτων που στελέχωσαν τον πολιτισμό της χώρας, αφήνοντας μνημειώδη έργα ως ίχνη τους στην πάροδο του χρόνου.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Τις τελευταίες όμως δεκαετίες – από τις αρχές της δεκαετίας του ’90 και μέχρι σήμερα – παρακολουθώντας αδιαλείπτως αυτήν τη δραστηριότητα που συντελείται στους κόλπους των άτυπων δημιουργικών φοιτητικών ομάδων – με την υψηλή όμως προστατευτική εποπτεία και υποστήριξη των πρυτανικών αρχών και παρά την πενιχρή και ολοένα φθίνουσα σχετική υλικοτεχνική υποδομή – είμαι μάρτυρας μιας σημαντικής εξέλιξης που ανοίγει νέους δρόμους, μεγαλώνει τους ορίζοντες της καινοτομίας στην ακαδημαϊκή διδασκαλία:
 
-### Markdown
+Με την ταυτόχρονη ανάπτυξη και καλλιέργεια της διαδραστικής, της άτυπης και βιωματικής εκπαίδευσης, της δια βίου μάθησης και με την κλιμακούμενη αναγνώριση της αξίας της άτυπης κι εξωσχολικής εκπαιδευτικής δραστηριότητας τόσο από κοινωνικούς, όσο και από επίσημους και κρατικούς ή και Ευρωπαϊκούς φορείς, συνδέονται πλέον τα βιώματα αυτών των ψυχαγωγικών και αυθόρμητων πράξεων με την ουσία της αναζήτησης νέων τρόπων, άλλης νοοτροπίας και εκσυγχρονισμού της ίδιας της ιδέας και της πράξης της αγωγής. Σε αυτό το νέο σύμπαν διαφορετικές ισορροπίες στις σχέσεις εκπαιδευτή – εκπαιδευόμενου, θεωρίας και πράξης και διαφορετικές και καινούργιες δυναμικές ροπές εμφανίζονται, η τέχνη ως καθημερινή πράξη και όχι ως επάγγελμα, η δημιουργικότητα στην επιστήμη, η συναισθηματική νοημοσύνη, η θεραπευτική – με την ευρεία έννοια – της τέχνης, της φιλοσοφίας και της επιστήμης αναδύονται ως όροι διερεύνησης που απασχολούν πλέον μεταπτυχιακές και διδακτορικές μελέτες, συνέδρια και συμπόσια ειδικών ανά τον κόσμο. Συνεπικουρεί δε καίρια η εξ αποστάσεως μάθηση είτε ως εργαλείο απελευθέρωσης και κοινωνικής διεύρυνσης της γνώσης είτε ως συγκεκριμένη θεματική με τα μαθήματα δημιουργικής γραφής, φιλοσοφίας και θεάτρου, φιλοσοφικής συμβουλευτικής και τέχνης…..
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Οι ορίζοντες είναι ανοιχτοί!
 
-```markdown
-Syntax highlighted code block
+_Άννα Λάζου_
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artphilo/art-philosophy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
